@@ -1,49 +1,58 @@
-# Hi👋, I'm Thoriq Azhar Fauzan
+<h1 align="center">Hi 👋, I'm Thoriq Azhar Fauzan</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Final-year+IT+Student;Building+Data-Driven+Systems;Learning+on+the+fly+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+</div>
 
-Final-year IT student based in Bekasi, West Java, with a passion for building practical, data-driven systems. I thrive on hands-on, project-based learning and believe in "learning on the fly" to solve real-world problems.
-
----
-
-### 👨‍💻 About Me
-*   🎓 **Education:** 8th-semester IT student, currently focused on my thesis project.
-*   🚀 **Career Transition:** Shifting from an educational role (former PIC for inventory management) into a full-time career in the IT industry.
-*   💡 **Mindset:** Fast learner, adaptable, and highly motivated to build systems that work.
-*   💪 **Hobbies:** Staying active with a consistent morning calisthenics routine.
+<p align="center">
+  <i>Fast learner, adaptable, and highly motivated to build systems that work. Transitioning from an educational role to a full-time IT career.</i>
+</p>
 
 ---
 
-### 🛠️ Current Focus: Thesis Project
-I am developing a **web-based inventory system** integrated with **Machine Learning** to optimize data management and predictive analytics.
+### 👨‍💻 About Me & My Focus
+- 🎓 **Education:** 8th-semester IT student, recently passed my Sempro and currently focused on my thesis project.
+- 🚀 **Background:** Experienced in inventory management (former PIC), now shifting fully into the IT industry.
+- 💪 **Beyond Coding:** Keeping up with a consistent morning calisthenics routine, and testing naval builds in *Modern Warships*.
 
-*   **System Development:** Built using PHP and Python.
-*   **Predictive Modeling:** Leveraging the **XGBoost algorithm** for accurate inventory forecasting.
-*   **Data Handling:** Experienced in web design, data migration, and process optimization based on my background in inventory management.
-
----
-
-### 💻 Tech Stack & Skills
-*   **Languages:** Python, PHP
-*   **Machine Learning:** XGBoost
-*   **Technical Skills:** Web Development, Data Migration, Inventory System Architecture
-*   **Domain Expertise:** Inventory Management, Project Management
+### 🛠️ Thesis Project: Smart Inventory System
+Currently developing a **web-based inventory system** that leverages Machine Learning for optimal data management and predictive analytics.
+- **Core Tech:** PHP & Python
+- **Predictive Engine:** **XGBoost Algorithm** for accurate inventory forecasting
+- **Key Skills Applied:** Web Design, Data Migration, Process Optimization
 
 ---
 
-### 📫 Let's Connect
-*   **Email:** tthoriqazhar@gmail.com
-*
-<!--
-**Thoriq150/Thoriq150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/XGBoost-F37021?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Dev" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Data_Migration-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" alt="Data" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thoriq150&show_icons=true&theme=tokyonight&hide_border=true" alt="Thoriq's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thoriq150&theme=tokyonight&hide_border=true" alt="Thoriq's GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoriq150&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="mailto:tthoriqazhar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
