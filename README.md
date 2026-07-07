@@ -23,7 +23,7 @@ When I'm not coding or writing my thesis, you can find me:
 * 📖 Catching up on the latest lore and power scaling in the *Boruto* manga.
 
 ---
-📫 **How to reach me:**  | tthoriqazhar@gmail.com ## Hi there 👋
+📫 **How to reach me:**  | tthoriqazhar@gmail.com 
 
 <!--
 **Thoriq150/Thoriq150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
