@@ -35,17 +35,6 @@ Currently developing a **web-based inventory system** that leverages Machine Lea
 
 ---
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thoriq150&show_icons=true&theme=tokyonight&hide_border=true" alt="Thoriq's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thoriq150&theme=tokyonight&hide_border=true" alt="Thoriq's GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoriq150&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
----
 
 ### 📫 Let's Connect!
 <p align="center">
