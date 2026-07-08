@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me & My Focus
 - 🎓 **Education:** 8th-semester IT student, recently passed my Sempro and currently focused on my thesis project.
 - 🚀 **Background:** Experienced in inventory management (former PIC), now shifting fully into the IT industry.
-- 💪 **Beyond Coding:** Keeping up with a consistent morning calisthenics routine, and testing naval builds in *Modern Warships*.
+- 💪 **Beyond Coding:** Keeping up with a consistent morning calisthenics routine.
 
 ### 🛠️ Thesis Project: Smart Inventory System
 Currently developing a **web-based inventory system** that leverages Machine Learning for optimal data management and predictive analytics.
