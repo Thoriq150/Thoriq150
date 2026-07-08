@@ -35,15 +35,6 @@ Currently developing a **web-based inventory system** that leverages Machine Lea
 
 ---
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thoriq150&show_icons=true&theme=tokyonight&hide_border=true" alt="Thoriq's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thoriq150&theme=tokyonight&hide_border=true" alt="Thoriq's GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoriq150&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
 
 ---
 
@@ -52,7 +43,7 @@ Currently developing a **web-based inventory system** that leverages Machine Lea
   <a href="mailto:tthoriqazhar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+  <a href="https://www.linkedin.com/in/thoriq-azhar-fauzan-128a64288?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
