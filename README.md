@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Thoriq Azhar Fauzan</h1>
+  <h1 align="center">Hi 👋, I'm Thoriq Azhar Fauzan</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Final-year+IT+Student;Building+Data-Driven+Systems;Learning+on+the+fly+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <i>Fast learner, adaptable, and highly motivated to build systems that work. Transitioning from an educational role to a full-time IT career.</i>
+  <i>Fast learner, adaptable, and highly motivated to build systems that work.</i>
 </p>
 
 ---
 
 ### 👨‍💻 About Me & My Focus
 - 🎓 **Education:** 8th-semester IT student, recently passed my Sempro and currently focused on my thesis project.
-- 🚀 **Background:** Experienced in inventory management (former PIC), now shifting fully into the IT industry.
-- 💪 **Beyond Coding:** Keeping up with a consistent morning calisthenics routine.
+- 🚀 **Career Goal:** Transitioning into a full-time career in the IT industry. My hands-on work experience in daily operations has shaped my practical approach to solving business problems through code.
+- 💪 **Beyond Coding:** Keeping up with a consistent morning calisthenics routine, and testing naval builds in *Modern Warships*.
 
 ### 🛠️ Thesis Project: Smart Inventory System
-Currently developing a **web-based inventory system** that leverages Machine Learning for optimal data management and predictive analytics.
+Currently developing a **web-based inventory system** that leverages Machine Learning for optimal data management and predictive analytics. 
 - **Core Tech:** PHP & Python
 - **Predictive Engine:** **XGBoost Algorithm** for accurate inventory forecasting
-- **Key Skills Applied:** Web Design, Data Migration, Process Optimization
+- **Key Focus:** Web Design, Data Migration, Process Optimization
 
 ---
 
@@ -35,6 +35,17 @@ Currently developing a **web-based inventory system** that leverages Machine Lea
 
 ---
 
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thoriq150&show_icons=true&theme=tokyonight&hide_border=true" alt="Thoriq's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thoriq150&theme=tokyonight&hide_border=true" alt="Thoriq's GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoriq150&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</div>
+
+---
 
 ### 📫 Let's Connect!
 <p align="center">
