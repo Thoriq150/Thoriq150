@@ -46,6 +46,10 @@ Sistem Inventori UMKM berbasis Laravel + MySQL + XGBoost.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-blue?logo=railway)](https://laravel-inventory-xgboost-production.up.railway.app)
 
+## 🎓 Prediksi IPK Mahasiswa dengan Streamlit
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-black?logo=github)](https://github.com/Thoriq150/prediksi-ipk-mahasiswa).
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-blue?logo=railway)](https://prediksi-ipk-mahasiswa-khdwval3exehjkwz5rs5tv.streamlit.app/)
 ---
 
 ### 📫 Let's Connect!
