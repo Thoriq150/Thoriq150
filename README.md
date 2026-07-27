@@ -34,9 +34,9 @@ Currently developing a **web-based inventory system** that leverages Machine Lea
 </p>
 
 ---
-# 🚀 Featured Project
+# Featured Project
 
-## SmartStock UMKM
+## <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/b732bb6f-aa7e-4273-9820-431e4252b733" />SmartStock UMKM
 
 Sistem Inventori UMKM berbasis Laravel + MySQL + XGBoost.
 
