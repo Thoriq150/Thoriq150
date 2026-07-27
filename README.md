@@ -38,15 +38,15 @@ Currently developing a **web-based inventory system** that leverages Machine Lea
 
 ## SmartStock UMKM
 
-![Project](https://raw.githubusercontent.com/USERNAME/REPO/main/public/icon.png)
-
 Sistem Inventori UMKM berbasis Laravel + MySQL + XGBoost.
 
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-black?logo=github)](https://github.com/Thoriq150/Laravel-inventory-XGBoost)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-blue?logo=railway)](https://laravel-inventory-xgboost-production.up.railway.app)
 
-## 🎓 Prediksi IPK Mahasiswa dengan Streamlit
+## 🎓 Aplikasi IPK
+
+Prediksi IPK Mahasiswa dengan Streamlit
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-black?logo=github)](https://github.com/Thoriq150/prediksi-ipk-mahasiswa).
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlite-blue?logo=streamlite)](https://prediksi-ipk-mahasiswa-khdwval3exehjkwz5rs5tv.streamlit.app/)
