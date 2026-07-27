@@ -47,6 +47,7 @@ Sistem Inventori UMKM berbasis Laravel + MySQL + XGBoost.
 ## 🎓 Aplikasi IPK
 
 Prediksi IPK Mahasiswa Menggunakan Python dan Librarynya dengan Streamlit.
+
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-black?logo=github)](https://github.com/Thoriq150/prediksi-ipk-mahasiswa).
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlite-blue?logo=streamlite)](https://prediksi-ipk-mahasiswa-khdwval3exehjkwz5rs5tv.streamlit.app/)
