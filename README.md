@@ -12,28 +12,38 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year Information Technology student passionate about Backend Development, Web Applications, and Machine Learning Integration.
+I'm a final-year Information Technology student passionate about **Backend Development**, **Web Applications**, and **Machine Learning Integration**.
 
 I enjoy building software that solves real-world business problems using modern technologies and clean system architecture.
 
-🎓 Final-Year Information Technology Student
-
-💻 Interested in Backend & Full Stack Web Development
-
-🤖 Machine Learning Enthusiast
-
-🚀 Currently looking for Internship & Full-Time Opportunities
-
-📍 Indonesia
-
-
-### 🛠️ Thesis Project: Smart Inventory System
-Currently developing a **web-based inventory system** that leverages Machine Learning for optimal data management and predictive analytics. 
-- **Core Tech:** PHP & Python
-- **Predictive Engine:** **XGBoost Algorithm** for accurate inventory forecasting
-- **Key Focus:** Web Design, Data Migration, Process Optimization
+- 🎓 Final-Year Information Technology Student
+- 💻 Interested in Backend & Full Stack Web Development
+- 🤖 Machine Learning Enthusiast
+- 🚀 Currently looking for Internship & Full-Time Opportunities
+- 📍 Indonesia
 
 ---
+
+
+## 🚀 Featured Project
+
+### 📦 SmartStock UMKM
+
+A web-based inventory management system integrated with **XGBoost Machine Learning** for inventory forecasting.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thoriq150/Laravel-inventory-XGBoost/main/public/design_gudang.jpeg" width="850" alt="SmartStock UMKM Screenshot"/>
+</p>
+
+#### ✨ Features
+
+- Inventory Management
+- Sales Transaction Management
+- Supplier Management
+- Dashboard Analytics
+- Stock Prediction using XGBoost
+- Web Deployment using Railway
+
 
 ### 💻 Tech Stack & Tools
 <p align="center">
@@ -64,7 +74,50 @@ Prediksi IPK Mahasiswa Menggunakan Python dan Librarynya dengan Streamlit.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlite-blue?logo=streamlite)](https://prediksi-ipk-mahasiswa-khdwval3exehjkwz5rs5tv.streamlit.app/)
 ---
+## 💻 Tech Stack
 
+### Backend
+- Laravel
+- PHP
+- Python
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### Database
+- MySQL
+
+### Machine Learning
+- XGBoost
+- Pandas
+- Scikit-learn
+
+### Deployment
+- Railway
+- Git
+- GitHub
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thoriq150&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoriq150&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Thoriq150&theme=tokyonight"/>
+</p>
+
+---
 ### 📫 Let's Connect!
 <p align="center">
   <a href="mailto:tthoriqazhar@gmail.com">
@@ -73,4 +126,10 @@ Prediksi IPK Mahasiswa Menggunakan Python dan Librarynya dengan Streamlit.
   <a href="https://www.linkedin.com/in/thoriq-azhar-fauzan-128a64288?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building practical software that delivers real business value."</i>
 </p>
