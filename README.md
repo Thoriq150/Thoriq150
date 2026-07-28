@@ -100,22 +100,6 @@ Prediksi IPK Mahasiswa Menggunakan Python dan Librarynya dengan Streamlit.
 - Git
 - GitHub
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thoriq150&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoriq150&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thoriq150&theme=tokyonight"/>
-</p>
 
 ---
 ### 📫 Let's Connect!
