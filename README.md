@@ -1,12 +1,12 @@
-  <h1 align="center">Hi 👋, I'm Thoriq Azhar Fauzan</h1>
+ Hi 👋, I'm Thoriq Azhar Fauzan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Final-year+IT+Student;Building+Data-Driven+Systems;Learning+on+the+fly+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+%7C+PHP+%7C+Python;Machine+Learning+Enthusiast;Building+Real-World+Business+Solutions" />
+
 </div>
 
-<p align="center">
-  <i>Fast learner, adaptable, and highly motivated to build systems that work.</i>
-</p>
+<p align="center"> <b>Backend Developer • Laravel • PHP • Python • Machine Learning</b> </p>
 
 ---
 
