@@ -10,10 +10,17 @@
 
 ---
 
-### 👨‍💻 About Me & My Focus
-- 🎓 **Education:** 8th-semester IT student, recently passed my Sempro and currently focused on my thesis project.
-- 🚀 **Career Goal:** Transitioning into a full-time career in the IT industry. My hands-on work experience in daily operations has shaped my practical approach to solving business problems through code.
-- 💪 **Beyond Coding:** Keeping up with a consistent morning calisthenics routine.
+### 👨‍💻 About Me
+
+I'm a final-year Information Technology student passionate about Backend Development, Web Applications, and Machine Learning Integration.
+
+I enjoy building software that solves real-world business problems using modern technologies and clean system architecture.
+
+🎓 Final-Year Information Technology Student
+💻 Interested in Backend & Full Stack Web Development
+🤖 Machine Learning Enthusiast
+🚀 Currently looking for Internship & Full-Time Opportunities
+📍 Indonesia
 
 ### 🛠️ Thesis Project: Smart Inventory System
 Currently developing a **web-based inventory system** that leverages Machine Learning for optimal data management and predictive analytics. 
