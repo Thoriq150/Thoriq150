@@ -1,8 +1,8 @@
  Hi 👋, I'm Thoriq Azhar Fauzan
-<div>
-<img src="https://readme-typing-svg.herokuapp.comfont=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Data+Visualization+%26+Business+Intelligence;Python+%7C+Machine+Learning;Turning+Data+Into+Business+Insights" />
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Data+Visualization+%26+Business+Intelligence;Python+%7C+Machine+Learning;Turning+Data+Into+Business+Insights" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Aspiring Data Analyst | Business Intelligence | Information Technology</b>
