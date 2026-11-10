@@ -29,26 +29,6 @@ I also have experience developing web-based applications and integrating machine
 ---
 
 
-## 🚀 Featured Project
-
-### 📦 SmartStock UMKM
-
-A web-based inventory management system integrated with **XGBoost Machine Learning** for inventory forecasting.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thoriq150/Laravel-inventory-XGBoost/main/public/design_gudang.jpeg" width="850" alt="SmartStock UMKM Screenshot"/>
-</p>
-
-#### ✨ Features
-
-- Inventory Management
-- Sales Transaction Management
-- Supplier Management
-- Dashboard Analytics
-- Stock Prediction using XGBoost
-- Web Deployment using Railway
-
-
 ### 💻 Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -78,11 +58,11 @@ Prediksi IPK Mahasiswa Menggunakan Python dan Librarynya dengan Streamlit.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlite-blue?logo=streamlite)](https://prediksi-ipk-mahasiswa-khdwval3exehjkwz5rs5tv.streamlit.app/)
 ---
-## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/4799a998-d53d-4ecc-81ef-219e6254b798" /> 
+## 📊 Dashboard Analisis Power BI 
 
-Sistem Inventori UMKM berbasis Laravel + MySQL + XGBoost.
+Dashboard Analisis Inventori UMKM berbasis Power BI + DAX + Data Modeling + CSV
 
-[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-black?logo=github)](https://github.com/Thoriq150/Laravel-inventory-XGBoost)
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-black?logo=github)](https://github.com/Thoriq150/INVENTORY-ANLYST-POWER-BI)
 
 
 ## 💻 Tech Stack
