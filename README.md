@@ -18,12 +18,12 @@ I also have experience developing web-based applications and integrating machine
 
 ## 🎓 Informatics Engineering Background
 
-📊 Interested in Data Analytics & Business Intelligence
-📈 Learning Power BI, SQL, Excel, and Python
-🤖 Academic experience with Machine Learning (XGBoost)
-💻 Background in Backend Development using Laravel & PHP
-🚀 Open to Junior Data Analyst, BI Analyst, and Reporting Analyst opportunities
-📍 Indonesia
+- 📊 Interested in Data Analytics & Business Intelligence
+- 📈 Learning Power BI, SQL, Excel, and Python
+- 🤖 Academic experience with Machine Learning (XGBoost)
+- 💻 Background in Backend Development using Laravel & PHP
+- 🚀 Open to Junior Data Analyst, BI Analyst, and Reporting Analyst opportunities
+- 📍 Indonesia
 
 
 
