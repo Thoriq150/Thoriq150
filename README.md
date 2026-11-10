@@ -1,7 +1,7 @@
  Hi 👋, I'm Thoriq Azhar Fauzan
 <div>
  
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Data+Visualization+%26+Business+Intelligence;Python+%7C+Machine+Learning;Turning+Data+Into+Business+Insights" />
+<img align="center" src="https://readme-typing-svg.herokuapp.comfont=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Data+Visualization+%26+Business+Intelligence;Python+%7C+Machine+Learning;Turning+Data+Into+Business+Insights" />
 
 </div>
 
@@ -13,15 +13,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year Information Technology student passionate about **Backend Development**, **Web Applications**, and **Machine Learning Integration**.
+I'm an Information Technology enthusiast with a background in Informatics Engineering, interested in Data Analytics, Business Intelligence, and Data-Driven Decision Making.
+I enjoy exploring data, identifying patterns, and transforming raw data into meaningful insights that can support business decisions.
+I also have experience developing web-based applications and integrating machine learning models through academic projects.
 
-I enjoy building software that solves real-world business problems using modern technologies and clean system architecture.
+🎓 Informatics Engineering Background
 
-- 🎓 Final-Year Information Technology Student
-- 💻 Interested in Backend & Full Stack Web Development
-- 🤖 Machine Learning Enthusiast
-- 🚀 Currently looking for Internship & Full-Time Opportunities
-- 📍 Indonesia
+📊 Interested in Data Analytics & Business Intelligence
+📈 Learning Power BI, SQL, Excel, and Python
+🤖 Academic experience with Machine Learning (XGBoost)
+💻 Background in Backend Development using Laravel & PHP
+🚀 Open to Junior Data Analyst, BI Analyst, and Reporting Analyst opportunities
+📍 Indonesia
 
 ---
 
@@ -75,6 +78,13 @@ Prediksi IPK Mahasiswa Menggunakan Python dan Librarynya dengan Streamlit.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlite-blue?logo=streamlite)](https://prediksi-ipk-mahasiswa-khdwval3exehjkwz5rs5tv.streamlit.app/)
 ---
+## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/4799a998-d53d-4ecc-81ef-219e6254b798" /> 
+
+Sistem Inventori UMKM berbasis Laravel + MySQL + XGBoost.
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-black?logo=github)](https://github.com/Thoriq150/Laravel-inventory-XGBoost)
+
+
 ## 💻 Tech Stack
 
 ### Backend
