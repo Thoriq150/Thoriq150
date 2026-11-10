@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  👨‍💻About Me
 
 I'm an Information Technology enthusiast with a background in Informatics Engineering, interested in Data Analytics, Business Intelligence, and Data-Driven Decision Making.
 I enjoy exploring data, identifying patterns, and transforming raw data into meaningful insights that can support business decisions.
