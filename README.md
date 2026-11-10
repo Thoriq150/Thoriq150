@@ -16,7 +16,7 @@ I'm an Information Technology enthusiast with a background in Informatics Engine
 I enjoy exploring data, identifying patterns, and transforming raw data into meaningful insights that can support business decisions.
 I also have experience developing web-based applications and integrating machine learning models through academic projects.
 
-🎓 Informatics Engineering Background
+## 🎓 Informatics Engineering Background
 
 📊 Interested in Data Analytics & Business Intelligence
 📈 Learning Power BI, SQL, Excel, and Python
@@ -25,7 +25,6 @@ I also have experience developing web-based applications and integrating machine
 🚀 Open to Junior Data Analyst, BI Analyst, and Reporting Analyst opportunities
 📍 Indonesia
 
----
 
 
 ### 💻 Tech Stack & Tools
