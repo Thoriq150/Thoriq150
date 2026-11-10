@@ -65,12 +65,23 @@ Dashboard Analisis Inventori UMKM berbasis Power BI + DAX + Data Modeling + CSV
 
 ## 💻 Tech Stack
 
-### Backend
+### Data Analytics & Business Intelligence
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- SQL
+- Microsoft Excel
+- Data Visualization
+- Data Modeling
+
+### Programming & Data Processing
+- Python
+- Pandas
+- Scikit-learn
+- XGBoost
+
+### Web Development
 - Laravel
 - PHP
-- Python
-
-### Frontend
 - HTML
 - CSS
 - JavaScript
@@ -78,17 +89,22 @@ Dashboard Analisis Inventori UMKM berbasis Power BI + DAX + Data Modeling + CSV
 
 ### Database
 - MySQL
+- Oracle Database
 
-### Machine Learning
-- XGBoost
-- Pandas
-- Scikit-learn
+### Tools
+- Git & GitHub
+- Visual Studio Code
+- Power BI Desktop
+- XAMPP / Laragon
 
 ### Deployment
 - Railway
 - Git
 - GitHub
 
+## 🎓 Certifications & Learning
+- Oracle Database Design – Academic Certification
+- Continuous Learning in Data Analytics and Business Intelligence
 
 ---
 ### 📫 Let's Connect!
